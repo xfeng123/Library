@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b08464b-893b-41ff-b9c6-7cb9aba1f687" name="默认的" comment="javaweb">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/dao/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/pojo/BorrowBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/service/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/AddBorrowBookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/DelBorrowBookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/SearchBorrowBookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/admin/AddUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/admin/DeleteBookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/admin/DeleteUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/admin/SearchBorrowBookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/admin/SearchUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/admin/UpdateBookServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/BookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/UserList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/borrowHistory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header/00f110d7-05ba-4795-8647-275d0878777b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header/2dfb6a3a-8266-4c97-b449-014ee3037c9a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header/a656fe53-0cf5-47d9-a8ca-266b2fac1b74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header/d7957753-9d4e-44a9-8e09-e0a1af424989.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header/head1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/dao/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/filter/CharacterEncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/filter/CharacterEncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/service/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/service/BookServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/service/BookServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/servlet/SearchBooksServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/SearchBooksServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/shy/servlet/admin/addBookServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/shy/servlet/admin/addBookServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/NIITDevelop-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/NIITDevelop-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin/BookList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin/BookList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin/main.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/borrowHistory.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/borrowHistory.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/personalInfo.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/personalInfo.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/searchBooks.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/searchBooks.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Library/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1t7CdL9pyhQrxlkC8AWciYKJBzR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/1216531694/FileRecv/Library" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\33007\Desktop\javaweb\Library\src\main\webapp\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookServiceTest.updateBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shy.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.shy.service" />
+      <option name="MAIN_CLASS_NAME" value="com.shy.service.BookServiceTest" />
+      <option name="METHOD_NAME" value="updateBook" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookServiceTest.updateBook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b08464b-893b-41ff-b9c6-7cb9aba1f687" name="默认的" comment="" />
+      <created>1622110826658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622110826658</updated>
+      <workItem from="1622110833729" duration="3344000" />
+      <workItem from="1622374980164" duration="649000" />
+      <workItem from="1622376158054" duration="678000" />
+    </task>
+    <task id="LOCAL-00001" summary="web">
+      <created>1622375088347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622375088348</updated>
+    </task>
+    <task id="LOCAL-00002" summary="web">
+      <created>1622375349431</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622375349431</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="web" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/shy-coder/Library&#10;&#10;# Conflicts:&#10;#&#9;src/main/java/com/shy/dao/UserMapper.java&#10;#&#9;src/main/java/com/shy/service/BookService.java&#10;#&#9;src/main/java/com/shy/service/BookServiceTest.java&#10;#&#9;src/main/java/com/shy/servlet/admin/addBookServlet.java&#10;#&#9;src/main/resources/mapper/UserMapper.xml&#10;#&#9;src/main/resources/mybatis-config.xml&#10;#&#9;src/main/webapp/WEB-INF/lib/NIITDevelop-1.0.jar&#10;#&#9;src/main/webapp/WEB-INF/web.xml&#10;#&#9;src/main/webapp/admin/BookList.jsp&#10;#&#9;src/main/webapp/searchBooks.jsp" />
+    <MESSAGE value="1" />
+    <MESSAGE value="javaweb" />
+    <option name="LAST_COMMIT_MESSAGE" value="javaweb" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1622376842120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1622376842120" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1622376527723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622376527723" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1622116477495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622116477495" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1622116477495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622116477495" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1622116477495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622116477495" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1622116477495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622116477495" />
+    <state x="590" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1622375329869">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="322" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1622375329869" />
+  </component>
+</project>
